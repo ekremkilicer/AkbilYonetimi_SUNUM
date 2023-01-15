@@ -16,8 +16,11 @@ Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikle
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
 ![Kullanici1](https://user-images.githubusercontent.com/120444709/212544027-78e8d375-ca37-414c-9c56-8bd295c8795b.png)
+
 ![KayitOl](https://user-images.githubusercontent.com/120444709/212544035-09780b08-d4f8-4ad6-b9b9-abb1aff6b1e9.png)
+
 ![Akbil Yönetimi](https://user-images.githubusercontent.com/120444709/212544036-2d13cc6b-7272-4aac-be05-67be95cf0d23.png)
+
 ![Akbil İşlemleri](https://user-images.githubusercontent.com/120444709/212544038-f606d4a1-a515-4155-b89a-af91d11e7007.png)
 ![Talimat İşlemleri](https://user-images.githubusercontent.com/120444709/212544042-0f98f07d-0233-4be1-9a71-3b590777bb51.png)
 ![Kod](https://user-images.githubusercontent.com/120444709/212544043-af527d97-7b77-4f88-855c-e5cff7f8dafe.png)
